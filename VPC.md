@@ -1,3 +1,7 @@
+---
+typora-root-url: image
+---
+
 ### vpc 만들기: IP 결정 시 고려 사항
 
 Private IP 표준 권장
@@ -18,7 +22,7 @@ Private IP 표준 권장
 
 -10.0.0.255: 브로드캐스트 주소=> VPC 에서는 브로드캐스트 지원 X, AWS 예약
 
-![image-20201207165244909](C:\Users\eun-hye.kim\AppData\Roaming\Typora\typora-user-images\image-20201207165244909.png)
+![image-20201207165244909](..\image\image-20201207165244909.png)
 
 
 

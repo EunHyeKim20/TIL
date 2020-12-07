@@ -1,6 +1,4 @@
----
-typora-root-url: image
----
+
 
 ### vpc 만들기: IP 결정 시 고려 사항
 

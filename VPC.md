@@ -58,9 +58,9 @@ VPC Peering 생성 시 Route 수정 필요
 
 다수의 AZ의 Target 에 트래픽 분산
 
-![elb_1](C:\Users\SAMSUNG\Desktop\git\TIL\image\elb_1.PNG)
+![elb_1](image/elb_1.PNG)
 
-![elb_2](C:\Users\SAMSUNG\Desktop\git\TIL\image\elb_2.PNG)
+![elb_2](image/elb_2.PNG)
 
 
 
